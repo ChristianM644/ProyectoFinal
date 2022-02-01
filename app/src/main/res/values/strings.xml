@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ProjectAndroid</string>
+    <string name="main_title">Vellum</string>
+    <string name="clothes_title">Title</string>
+    <string name="clothes_description">Description</string>
+
+    <string name="backdrop_clothes_home">Home</string>
+    <string name="backdrop_clothes_category">Category</string>
+    <string name="backdrop_clothes_support">Support</string>
+    <string name="backdrop_clothes_promotions">Pomotions</string>
+    <string name="backdrop_clothes_account">Account</string>
+
+
+    <string name="my_name">Wendy Navarro Palma</string>
+    <string name="my_phone">Phone Number</string>
+    <string name="edit">Edit Image</string>
+    <string name="your_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dni">Dni</string>
+    <string name="email">Email Address</string>
+    <string name="save">Save</string>
+    <string name="tittle_profile">Profile</string>
+    <string name="cancel">Cancel</string>
+    <string name="apiRest">List of Category Cryptocurrency: Api Rest</string>
+    <string name="payment_type">Payment Type</string>
+
+
+    <!--String for Login and Password-->
+    <string name="mail">E-mail</string>
+    <string name="password">Password</string>
+
+    <!--String para Register User-->
+    <string name="register_user">User Registration</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="vellum_store">Vellum Strore</string>
+
+    <!--String para la portada-->
+    <string name="subtitle1">Lo último en VELLUM</string>
+    <string name="subtitle2">#00TD (OUTFIT OF THE DAY)</string>
+    <string name="subtitle2_text">¡Conoce de modas a diario en VELLUM!</string>
+
+    <string name="text1">Marca Ready to wear boutique, nuestro estilo lo definimos como Casual/Chic, creamos diseños exclusivos.</string>
+    <string name="text2">Ropa trendy para mujeres con un estilo Vanguardista, marca auténtica y hecha en Perú con calidad y amor.</string>
+    <string name="text3">Marca que representa una visión de un Perú moderno, que redefine la actitud de la sociedad peruana.</string>
+</resources>

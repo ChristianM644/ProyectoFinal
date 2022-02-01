@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/activity_clothing.xml" value="0.536" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/activity_dbhelper.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/activity_main.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/activity_profile.xml" value="0.4" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/activity_redirect.xml" value="0.121875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/activity_register.xml" value="0.2421875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/ativity_payment.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/backdrop_list.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/catalogue_card.xml" value="0.4" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/catalogue_fragment.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/catalogue_frament.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/catalogue_grid.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/layout/front_page_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ProjectAndroid/app/src/main/res/menu/toolbar_menu.xml" value="0.2421875" />
+        <entry key="..\:/Users/USER/Desktop/RESPALDO ANDROID FINAL/ProjectAndroid/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/Users/USER/Desktop/RESPALDO ANDROID FINAL/ProjectAndroid/app/src/main/res/layout/activity_profile.xml" value="0.2421875" />
+        <entry key="..\:/Users/USER/Desktop/RESPALDO ANDROID FINAL/ProjectAndroid/app/src/main/res/layout/activity_redirect.xml" value="0.2421875" />
+        <entry key="..\:/Users/USER/Desktop/RESPALDO ANDROID FINAL/ProjectAndroid/app/src/main/res/layout/activity_register.xml" value="0.2421875" />
+        <entry key="..\:/Users/USER/Desktop/RESPALDO ANDROID FINAL/ProjectAndroid/app/src/main/res/layout/backdrop_list.xml" value="0.2421875" />
+        <entry key="..\:/Users/USER/Desktop/RESPALDO ANDROID FINAL/ProjectAndroid/app/src/main/res/layout/catalogue_grid.xml" value="0.264" />
+        <entry key="..\:/Users/USER/Desktop/RESPALDO ANDROID FINAL/ProjectAndroid/app/src/main/res/layout/front_page_fragment.xml" value="0.2421875" />
+        <entry key="..\:/Users/USER/Desktop/RESPALDO ANDROID FINAL/ProjectAndroid/app/src/main/res/menu/toolbar_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

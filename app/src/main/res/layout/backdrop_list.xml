@@ -1,0 +1,54 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.ProjectAndroid.Button.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_clothes_home"
+
+        />
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_crypto"
+        style="@style/Widget.ProjectAndroid.Button.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/payment_type"
+
+        />
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.ProjectAndroid.Button.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_clothes_category"
+
+        />
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.ProjectAndroid.Button.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_clothes_promotions"
+
+        />
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.ProjectAndroid.Button.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_clothes_support"
+
+        />
+    <View
+        android:layout_width="56dp"
+        android:layout_height="1dp"
+        android:layout_margin="16dp"
+        android:background="@color/white"
+        />
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_account"
+        style="@style/Widget.ProjectAndroid.Button.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_clothes_account"
+
+        />
+
+
+</merge>
